@@ -2,4 +2,6 @@
 常用的Linux命令：
 cd
 rm -rf  
-mkdir -p 
+mkdir -p
+diff
+more 
