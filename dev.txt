@@ -1,4 +1,6 @@
 使用touch创建一个空文件
 常用的Linux命令：
 cd
-mkdir -p 
+mkdir -p
+diff
+more 
