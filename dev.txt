@@ -4,4 +4,5 @@ cd
 rm -rf  
 mkdir -p
 diff
-more 
+more
+tail -f  
