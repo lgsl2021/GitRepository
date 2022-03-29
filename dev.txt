@@ -3,4 +3,5 @@
 cd
 mkdir -p
 diff
-more 
+more
+tail -f  
