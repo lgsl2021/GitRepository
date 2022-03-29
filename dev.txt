@@ -4,4 +4,7 @@ cd
 mkdir -p
 diff
 more
-tail -f  
+tail -f
+head -2 : 显示前两行
+tail -2 ：显示后两行
+more +2 ：从第二行开始显示文件内容  
